@@ -1,7 +1,7 @@
 # SynthPark: Synthetic Data for Truck Parking Occupancy Prediction
 
 <p align="center">
-  "SynthPark" 
+  ##SynthPark 
 </p>
 
 <p align="center">
@@ -40,82 +40,15 @@ https://github.com/eee-Andrew/SynthPark/blob/main/LICENSE.md
 
 Training used an NVIDIA RTX 3060 GPU, batch size of 16, and up to 500 epochs with early stopping.
 
-## Getting Started
-### 1. Create the Repository
-- Create a new public repository on GitHub: `https://github.com/yourusername/SynthPark`.
-- Clone it locally:
-  ```bash
-  git clone https://github.com/yourusername/SynthPark.git
-  cd SynthPark
-  ```
-
-### 2. Add the License
-- Add the MIT License as a `LICENSE` file in the root directory (see above for the text).
-- Commit and push:
-  ```bash
-  git add LICENSE
-  git commit -m "Add MIT License"
-  git push origin main
-  ```
-
-### 3. Create a Release
-- Create a release on GitHub to enable the Release badge:
-  - Go to the "Releases" tab, click "Create a new release," tag it (e.g., `v1.0.0`), and publish.
-- Alternatively, run this locally:
-  ```bash
-  git tag v1.0.0
-  git push origin v1.0.0
-  ```
-
-### 4. Install Dependencies
-- Install Python dependencies:
-  ```bash
-  pip install -r requirements.txt
-  ```
-- Download pretrained YOLOv11 weights from [Ultralytics](https://docs.ultralytics.com/models/yolov11/) or Roboflow (PKLot dataset).
-- Install Unity 3D (HDRP-compatible version) for dataset generation.
-
-## Usage
-### 1. Generate Synthetic Dataset
-- Configure the Unity environment (see `unity_assets/`).
-- Run dataset generation scripts:
-  ```bash
-  python scripts/generate_dataset.py
-  ```
-
-### 2. Train the Model
-```bash
-python scripts/train_yolov11.py --data dataset.yaml --weights yolov11.pt --epochs 500 --batch-size 16
-```
-
-### 3. Evaluate Performance
-```bash
-python scripts/evaluate.py --model yolov11_trained.pt --test-data test_images/
-```
-
-### 4. Run Inference
-```bash
-python scripts/detect.py --model yolov11_trained.pt --source new_images/
-```
-
 ## Directory Structure
 ```
 SynthPark/
 ├── dataset/
 │   ├── images/               # Synthetic images
 │   ├── labels/               # Annotations
-│   └── dataset.yaml          # Dataset config
-├── scripts/
-│   ├── generate_dataset.py   # Dataset generation
-│   ├── train_yolov11.py      # Training
-│   ├── evaluate.py           # Evaluation
-│   ├── detect.py             # Inference
-├── unity_assets/             # Unity environment
-├── requirements.txt          # Dependencies
 ├── LICENSE                   # MIT License
 └── README.md                 # Documentation
 ```
-
 ## Future Work
 - Real-world deployment on physical drones.
 - Expand dataset with more scenarios.
@@ -130,8 +63,8 @@ Funded by:
 ```bibtex
 @article{valvis2025synthpark,
   title={SynthPark: Leveraging Synthetic Data for Occupancy Prediction in Autonomous Logistics},
-  author={Valvis, Andreas and Balaska, Vasiliki and Kansizoglou, Ioannis and Bampis, Loukas and Gasteratos, Antonios},
-  journal={TBD},
+  author={Valvis Andreas, Vasiliki Balaska,Ioannis Kansizoglou, Loukas Bampis and Antonios Gasteratos},
+  conf={ECMR},
   year={2025}
 }
 ```
