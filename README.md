@@ -12,7 +12,9 @@
 
 
 **SynthPark**  harnesses Unity 3D Engine to generate a high-quality synthetic dataset, tackling the scarcity of real-world aerial datasets for truck parking occupancy prediction in autonomous logistics. This dataset, designed with diverse conditions and realistic elements, supports the development of object detection solutions. This project is free and open-source, fostering collaborative innovation and data-driven advancements.
-
+-----------------
+The Unity environment is available upon request due to big size (see Contact section)
+---------------
 ## Features
 - **Synthetic Dataset**: A realistic 250m x 90m parking lot environment with dynamic lighting, occlusions, and varied camera angles.
 - **Data Augmentation**: Includes geometric transformations, photometric adjustments, and weather effects, producing 250 diverse images.
@@ -74,8 +76,6 @@ This project is licensed under the [MIT License](LICENSE), making it free and op
 
 ## Contact
 - Andreas Valvis: [avalvis@pme.duth.gr](mailto:avalvis@pme.duth.gr)
-- Vasiliki Balaska: [vbalaska@pme.duth.gr](mailto:vbalaska@pme.duth.gr)
-
 ---
 
 ⭐ **Star this repo** if you find it useful!  
