@@ -1,10 +1,6 @@
 # SynthPark: Synthetic Data for Truck Parking Occupancy Prediction
 
 <p align="center">
-  ##SynthPark 
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/status-No%20Releases%20Planned-brightgreen" alt="Status">
   <a href="https://github.com/eee-Andrew/SynthPark/blob/main/LICENSE.md"><img src="https://img.shields.io/github/license/eee-Andrew/SynthPark?color=blue" alt="License"></a>
   <a href="https://github.com/eee-Andrew/SynthPark/issues"><img src="https://img.shields.io/github/issues/eee-Andrew/SynthPark?color=orange" alt="Issues"></a>
