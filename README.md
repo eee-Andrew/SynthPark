@@ -11,7 +11,7 @@
 </p>
 
 
-**SynthPark** leverages synthetic data generated in Unity 3D to address the scarcity of real-world aerial datasets for truck parking occupancy prediction in autonomous logistics. A YOLOv11-based object detection model is trained on this dataset, achieving robust performance in identifying trucks and parking spots under diverse conditions. This project is free and open-source, encouraging collaborative development and innovation.
+**SynthPark**  harnesses Unity 3D to generate a high-quality synthetic dataset, tackling the scarcity of real-world aerial datasets for truck parking occupancy prediction in autonomous logistics. This dataset, designed with diverse conditions and realistic elements, supports the development of object detection solutions. This project is free and open-source, fostering collaborative innovation and data-driven advancements.
 
 ## Features
 - **Synthetic Dataset**: A realistic 250m x 90m parking lot environment with dynamic lighting, occlusions, and varied camera angles.
