@@ -11,7 +11,7 @@
 
 -----------------
 The Unity environment is available upon request due to its large file size (see the Contact section).
-he images and labels for training and testing can be downloaded from the following link:  
+The images and labels for training and testing can be downloaded from the following link:  
 👉 [Download from OneDrive](https://1drv.ms/f/c/22d24910f5600778/El2MSdbWCgVLvmhFMSXuGEQBeX-LFYPNhtmQ8KTk9f5Ezg?e=bYheKL)
 
 ---------------
