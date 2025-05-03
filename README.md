@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/eee-Andrew/SynthPark/releases"><img src="https://img.shields.io/github/v/release/eee-Andrew/SynthPark?color=brightgreen" alt="Release"></a>
+  <img src="https://img.shields.io/badge/status-No%20Releases%20Planned-brightgreen" alt="Status">
   <a href="https://github.com/eee-Andrew/SynthPark/blob/main/LICENSE.md"><img src="https://img.shields.io/github/license/eee-Andrew/SynthPark?color=blue" alt="License"></a>
   <a href="https://github.com/eee-Andrew/SynthPark/issues"><img src="https://img.shields.io/github/issues/eee-Andrew/SynthPark?color=orange" alt="Issues"></a>
 </p>
