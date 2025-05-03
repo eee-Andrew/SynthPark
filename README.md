@@ -43,14 +43,13 @@ The images and labels for training and testing can be downloaded from the follow
 
 Training used an NVIDIA RTX 3060 GPU, batch size of 16, and up to 500 epochs with early stopping.
 
-## Directory Structure
+## OneDrive Structure
 ```
 SynthPark/
 ├── dataset/
 │   ├── images/               # Synthetic images
 │   ├── labels/               # Annotations
-├── LICENSE                   # MIT License
-└── README.md                 # Documentation
+
 ```
 ## Future Work
 - Real-world deployment on physical drones.
