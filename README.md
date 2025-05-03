@@ -49,7 +49,7 @@ SynthPark/
 ├── dataset/
 │   ├── images/               # Synthetic images
 │   ├── labels/               # Annotations
-
+│   ├── Testing/              # Images for testing
 ```
 ## Future Work
 - Real-world deployment on physical drones.
