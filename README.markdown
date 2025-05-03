@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/eee-Andrew/SynthPark/releases"><img src="https://img.shields.io/github/v/release/yourusername/SynthPark?color=brightgreen" alt="Release"></a>
-  <a href="https://github.com/eee-Andrew/SynthPark/blob/main/LICENSE"><img src="https://img.shields.io/github/license/yourusername/SynthPark?color=blue" alt="License"></a>
-  <a href="https://github.com/eee-Andrew/SynthPark/issues"><img src="https://img.shields.io/github/issues/yourusername/SynthPark?color=orange" alt="Issues"></a>
+  <a href="https://github.com/eee-Andrew/SynthPark/releases"><img src="https://img.shields.io/github/v/release/eee-Andrew/SynthPark?color=brightgreen" alt="Release"></a>
+  <a href="https://github.com/eee-Andrew/SynthPark/blob/main/LICENSE"><img src="https://img.shields.io/github/license/eee-Andrew/SynthPark?color=blue" alt="License"></a>
+  <a href="https://github.com/eee-Andrew/SynthPark/issues"><img src="https://img.shields.io/github/issues/eee-Andrew/SynthPark?color=orange" alt="Issues"></a>
 </p>
 
 ## Overview
